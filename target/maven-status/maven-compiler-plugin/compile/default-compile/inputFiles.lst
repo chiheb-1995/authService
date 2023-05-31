@@ -1,0 +1,15 @@
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\config\SwaggerConfiguration.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Security\Filter\CustomAuthorisationFilter.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Service\Impl\RoleServiceImpl.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Service\RoleService.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Entity\Role.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Service\UserService.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Controller\UserController.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Repository\RoleRepository.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Security\SecurityConfig.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Service\Impl\UserServiceImpl.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Security\Filter\CustomAuthFilter.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Entity\User.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Repository\UserRepository.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\Controller\RoleController.java
+C:\Users\mariahi\Desktop\candidate-microservice-init\auth-service\src\main\java\com\example\authenticationmicroservice\AuthenticationMicroserviceApplication.java
